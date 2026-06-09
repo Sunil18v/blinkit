@@ -51,7 +51,7 @@ This project is an interactive Power BI dashboard built to analyze Blinkit sales
 4. Explore the dashboard using filters and slicers.
 
 ## 📸 Dashboard Preview
-<img width="1331" height="777" alt="Screenshot 2026-05-02 003558" src="https://github.com/user-attachments/assets/c5e72e25-f5b5-4a76-a28f-24223d6da1d7" />
+<img width="1331" height="777" alt="Screenshot 2026-05-02 003558" src="https://github.com/user-attachments/assets/a5278bc1-1b99-4c30-83ed-4369749227b7" />
 
 ## 🔮 Future Enhancements
 - Real-time data integration.
