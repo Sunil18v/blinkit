@@ -1,16 +1,19 @@
 # Blinkit Sales Dashboard (Power BI)
 
 ## 📌 Project Overview
-This project is an interactive Power BI dashboard built to analyze Blinkit sales performance, customer ratings, product categories, outlet performance, and key business metrics. The dashboard helps stakeholders monitor sales trends and make data-driven decisions.
+The Blinkit Sales Analysis Dashboard is an interactive data analytics project developed to analyze sales performance, customer behavior, and product trends of Blinkit, India's leading quick-commerce platform. The dashboard transforms raw sales data into meaningful insights, enabling businesses to monitor key performance indicators (KPIs), identify growth opportunities, and make data-driven decisions. Blinkit is one of India's major instant delivery platforms, offering groceries and essential products through a fast delivery network.
 
 ## 🎯 Objectives
 - Analyze overall sales performance.
-- Track average sales and customer ratings.
-- Compare performance across outlet types and locations.
-- Identify top-performing product categories.
-- Monitor inventory and business KPIs.
-- Provide actionable insights through interactive visualizations.
-
+- Analyze overall sales performance and key business metrics.
+- Identify top-performing product categories and items.
+- Compare sales across different outlet sizes, locations, and outlet types.
+- Evaluate customer ratings and understand customer satisfaction trends.
+- Discover sales patterns to support data-driven business decisions.
+- Monitor inventory and product demand across categories.
+- Create interactive visualizations for easy data exploration and reporting.
+- Generate actionable insights to improve sales growth and operational efficiency.
+- 
 ## 📊 Dashboard Features
 - Total Sales KPI
 - Average Sales Analysis
