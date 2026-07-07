@@ -54,7 +54,7 @@ The Blinkit Sales Analysis Dashboard is an interactive data analytics project de
 4. Explore the dashboard using filters and slicers.
 
 ## 📸 Dashboard Preview
-<img width="1331" height="777" alt="Screenshot 2026-05-02 003558" src="https://github.com/user-attachments/assets/a5278bc1-1b99-4c30-83ed-4369749227b7" />
+<img width="1331" height="777" alt="Screenshot 2026-05-02 003558" src="https://github.com/user-attachments/assets/7da21889-9b87-48a6-9f79-c26391e8344c" />
 
 ## 🔮 Future Enhancements
 - Real-time data integration.
